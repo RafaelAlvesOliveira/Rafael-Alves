@@ -68,9 +68,9 @@ I am recent developer graduate looking for opportunities and collabaration in pr
                     </div> -->
                 </div>
             
-            <hr class="m-0" />
+            
             <!-- Skills-->
-            <section class="resume-section" id="skills">
+<!--             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
                     <div class="subheading mb-3">Programming Languages & Tools</div>
@@ -95,7 +95,7 @@ I am recent developer graduate looking for opportunities and collabaration in pr
                         </li>                        
                     </ul>
                 </div>
-            </section>            
+            </section>             -->
         </div>        
     </body>
 </html>
