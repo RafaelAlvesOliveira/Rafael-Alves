@@ -1,4 +1,15 @@
-# Rafael-Alves
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Resume - Rafael Alves</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+    </head>
+    <body id="page-top">
+ # Rafael-Alves
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/Rafael Alves">
 
@@ -11,18 +22,7 @@ I am recent developer graduate looking for opportunities and collabaration in pr
 ![Tecnologies](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-a-7a8396218/)
-
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>Resume - Daniel Rocha</title>
-        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
-    </head>
-    <body id="page-top">
+        
     <!-- Bootstrap core JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
