@@ -7,6 +7,7 @@ I am recent developer graduate looking for opportunities and collabaration in pr
 - 🌱 I’m currently learning node.js, python, django, php.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RafaelAlvesOliveira)
+
 ![Tecnologies](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-a-7a8396218/)
