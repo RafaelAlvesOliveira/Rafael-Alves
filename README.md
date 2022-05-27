@@ -69,7 +69,7 @@ I am recent developer graduate looking for opportunities and collabaration in pr
                 </div>
             
             
-            <!-- Skills-->
+            
 <!--             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
@@ -79,8 +79,8 @@ I am recent developer graduate looking for opportunities and collabaration in pr
                         <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
                         <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
                         <!--<li class="list-inline-item"><i class="fab fa-react"></i></li>-->
-                        <!--<li class="list-inline-item"><i class="fab fa-node-js"></i></li>-->                        
-                        <!--<li class="list-inline-item"><i class="fab fa-npm"></i></li>-->
+<!--                         <!--<li class="list-inline-item"><i class="fab fa-node-js"></i></li>-->                        
+                        <!--<li class="list-inline-item"><i class="fab fa-npm"></i></li>--> -->
 <!--                     </ul>
                     <div class="subheading mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">
