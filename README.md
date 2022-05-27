@@ -57,23 +57,17 @@ I am recent developer graduate looking for opportunities and collabaration in pr
                     <h1 class="mb-0">Rafael <span class="text-primary">Alves</span></h1>
                     <div class="subheading mb-5">São Paulo · SP · Brazil · +55 11 98815-7453 ·
                          <a href="mailto:faelalvesoliveira06@gmail.com">faelalvesoliveira06@gmail.com</a></div>
-                    <p class="lead mb-5">Agronomist, TI enthusiast and student. Learning skills to become a Full Stack Developer.</p>
-                    <div class="social-icons">
+<!--                     <p class="lead mb-5">Agronomist, TI enthusiast and student. Learning skills to become a Full Stack Developer.</p> -->
+<!--                     <div class="social-icons">
                         <a class="social-icon" href="https://linkedin.com/in/danielbrazrocha"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/danielbrazrocha"><i class="fab fa-github"></i></a>
                         <a class="social-icon" href="https://twitter.com/danielbrazrocha"><i class="fab fa-twitter"></i></a>
                         <a class="social-icon" href="https://www.facebook.com/danielbrazrocha"><i class="fab fa-facebook-f"></i></a>
                         <a class="social-icon" href="https://wa.me/5521979702169"><i class="fab fa-whatsapp"></i></a>
                         <a class="social-icon" href="https://t.me/danielbrazrocha"><i class="fab fa-telegram"></i></a>
-                    </div>
+                    </div> -->
                 </div>
-            </section>
-            <hr class="m-0" />
-            <!-- Experience-->
-
-            <hr class="m-0" />
-            <!-- Education-->
-
+            
             <hr class="m-0" />
             <!-- Skills-->
             <section class="resume-section" id="skills">
@@ -101,18 +95,8 @@ I am recent developer graduate looking for opportunities and collabaration in pr
                         </li>                        
                     </ul>
                 </div>
-            </section>
-            <hr class="m-0" />
-            
-            
-        </div>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
-        <!-- Third party plugin JS-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
+            </section>            
+        </div>        
     </body>
 </html>
 
