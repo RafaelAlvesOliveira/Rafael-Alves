@@ -96,8 +96,8 @@ I am recent developer graduate looking for opportunities and collabaration in pr
                     </ul>
                 </div>
             </section>             
-        </div>      --> -->  
-    </body>
+        </div>      
+    </body> --> -->  
 </html>
 
 
