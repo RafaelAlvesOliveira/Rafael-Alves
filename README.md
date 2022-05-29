@@ -1,45 +1,25 @@
 
  # Rafael-Alves
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/Rafael Alves">
-
 ### Hi, Folks 👋
-I am recent developer graduate looking for opportunities and collabaration in projects related to web.
-- 🌱 I’m currently learning node.js, python, django, php.
+### Rafael Alves 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-a-7a8396218/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:faelalvesoliveira06@gmail.com)
+</br>
+
+- 🌱 I’m developer Fullstack
+- 💙 Learning: node.js, python, django, php
+
+</br>
+
+## 🔧 Technologies and tools
+
+<p align="center"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="GIT" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Python"
+src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"</p>
+ 
+</br>
+
+## Github Stats
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RafaelAlvesOliveira)
-
-![Tecnologies](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-a-7a8396218/)
-        
-    
-
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />       
-    </head>
-    <body id="page-top">
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-            <a class="navbar-brand js-scroll-trigger" href="#page-top"
-                ><span class="d-block d-lg-none">Rafael Alves</span><span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2"  alt="Rafael Alves" /></span></a
-            ><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>            
-        </nav>
-        <!-- Page Content-->
-        <div class="container-fluid p-0">
-            <!-- About-->
-            <section class="resume-section" id="about">
-                <div class="resume-section-content">
-                    <h1 class="mb-0">Rafael <span class="text-primary">Alves</span></h1>
-                    <div class="subheading mb-5">São Paulo · SP · Brazil · +55 11 98815-7453 ·
-                         <a href="mailto:faelalvesoliveira06@gmail.com">faelalvesoliveira06@gmail.com</a></div>
-                </div>                     
-    </body> 
-</html>
-
 
